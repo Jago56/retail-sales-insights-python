@@ -1,4 +1,4 @@
-# retail-sales-insights-python
+# Retail-Sales-Insights-python
 
 This project is a fully structured, end‑to‑end retail sales analytics workflow built in Python. I designed it to demonstrate how I approach real business data: cleaning it, exploring it, and transforming it into clear, actionable insights. My repository highlights practical skills in data wrangling, exploratory data analysis (EDA), and visualization — all applied to a realistic retail dataset that mirrors the challenges analysts face in production environments.
 
